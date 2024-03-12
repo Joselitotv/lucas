@@ -13,8 +13,8 @@ http://190.61.43.117:45000/play/a01w
 http://190.61.43.117:45000/play/a023
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.HBO_Family.png.122def46e074538be0abbe6971e7c0a6.png"group-title="Cine",HBO FAMILY HD
 http://190.61.43.117:45000/play/a05y
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png"group-title="Cine",HBO XTREME HD 
-http://45.232.210.27:8000/play/a0fb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png"group-title="Cine", HBO XTREME HD 
+http://200.59.188.3:8000/play/a035
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="Cine",HBO Plus HD
 http://200.59.188.3:8000/play/a06m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es"group-title="Cine",Golden Premiere 2 HD
@@ -28,9 +28,9 @@ http://204.157.251.250:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"group-title="Cine",Cine Latino 
 http://204.157.251.250:8000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8863_7_22580.png.3a9ecc3216157bc2370bcafb8a7bdede.png"group-title="Cine",Cinemax HD 
-http://45.232.210.27:8000/play/cinemaxhd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Comedy_Central_HD_Logo_2018.svg/799px-Comedy_Central_HD_Logo_2018.svg.png?20200712000726"group-title="Cine",Comedy Central HD
-http://45.232.210.27:8000/play/comedycentralhd
+http://200.59.188.3:8000/play/a016
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Comedy_Central_HD_Logo_2018.svg/799px-Comedy_Central_HD_Logo_2018.svg.png?20200712000726"group-title="Cine",Comedy Central HD 
+http://200.59.188.3:8000/play/a017
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/e1/FX_HD.svg/revision/latest?cb=20230329093142"group-title="Cine",FX HD
 http://clubtv.link/MZ0903/key4513/lista1.php?c=a035&token=TecnotvGeneradorClub&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="Cine",SONY HD
