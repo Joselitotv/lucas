@@ -32,7 +32,7 @@ http://45.232.210.27:8000/play/cinemaxhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Comedy_Central_HD_Logo_2018.svg/799px-Comedy_Central_HD_Logo_2018.svg.png?20200712000726"group-title="Cine",Comedy Central HD
 http://45.232.210.27:8000/play/comedycentralhd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/e1/FX_HD.svg/revision/latest?cb=20230329093142"group-title="Cine",FX HD
-http://45.232.210.27:8000/play/a0aw
+http://clubtv.link/MZ0903/key4513/lista1.php?c=a035&token=TecnotvGeneradorClub&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="Cine",SONY HD
 http://204.157.251.250:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/301-3014720_canal-space-logo-canal-space-hd-png-download.png"group-title="Cine",SPACE HD
