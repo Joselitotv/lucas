@@ -57,10 +57,10 @@ http://190.61.43.117:45000/play/a02y
 http://45.232.210.27:8000/play/a0am
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png"group-title="Cultura",Discovery World HD
 http://45.232.210.27:8000/play/a05b 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png"group-title="Cultura",History
-http://200.59.188.3:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png"group-title="Cultura",History Channel HD 
+http://200.59.188.3:8000/play/a00e 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="Cultura",History 2 HD
-http://45.232.210.27:8000/play/a0e4
+http://45.4.85.211:58001/play/a020
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/58/935/gratis-png-investigacion-descubrimiento-programa-de-television-canal-de-television-logo-id.png"group-title="Cultura",ID HD
 http://45.232.210.27:8000/play/idhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"group-title="Cultura",Nat Geo HD
