@@ -72,7 +72,7 @@ http://181.78.6.106:45000/play/a004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a_400x400.jpg"group-title="Cine",DE PELICULA 
 http://181.78.6.106:45000/play/b088
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Animal_Planet_HD_logo.jpg"group-title="Cultura",Animal Planet HD 
-http://45.232.210.27:8000/play/animalplanethd
+http://200.59.188.3:8000/play/a029
 #EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ff189ab/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Flogo_de_caracol_television.png"group-title="Entretenimiento",Caracol HD 
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png"group-title="Entretenimiento",Pasiones HD 
