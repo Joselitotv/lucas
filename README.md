@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Lista 78 Colombia",24/7 Dragon ball super
+http://138.186.20.13:23200/play/a0f6 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png"group-title="Cine",A&E
 http://45.232.210.27:8000/play/aehd
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/1/1/1111713.png"group-title="Cine",AMC HD
